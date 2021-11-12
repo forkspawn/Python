@@ -1,0 +1,3 @@
+#trip research 
+# if _name_=="_main_" put this before main, this is used cause when you import a module to a script it executes all the things in it. 
+# using that doesn't executes everything
